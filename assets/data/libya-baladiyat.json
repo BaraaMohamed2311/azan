@@ -1,0 +1,5826 @@
+[
+  {
+    "id": "LY0104015",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "الجغبوب",
+      "en": "Al Jaghbub",
+      "slug": "al-jaghbub"
+    },
+    "code": {
+      "id": "LY0104015",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0104",
+      "level": 2,
+      "name": {
+        "local": "طبرق",
+        "en": "Tobruk",
+        "slug": "tobruk-ly0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY01",
+        "level": 1,
+        "name": {
+          "local": "الشرق",
+          "en": "East",
+          "slug": "east-ly01"
+        }
+      },
+      {
+        "id": "LY0104",
+        "level": 2,
+        "name": {
+          "local": "طبرق",
+          "en": "Tobruk",
+          "slug": "tobruk-ly0104"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.741",
+      "lon": "24.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0104014",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "بير الأشهب",
+      "en": "Bir al Ashhab",
+      "slug": "bir-al-ashhab"
+    },
+    "code": {
+      "id": "LY0104014",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0104",
+      "level": 2,
+      "name": {
+        "local": "طبرق",
+        "en": "Tobruk",
+        "slug": "tobruk-ly0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY01",
+        "level": 1,
+        "name": {
+          "local": "الشرق",
+          "en": "East",
+          "slug": "east-ly01"
+        }
+      },
+      {
+        "id": "LY0104",
+        "level": 2,
+        "name": {
+          "local": "طبرق",
+          "en": "Tobruk",
+          "slug": "tobruk-ly0104"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.887",
+      "lon": "24.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0104016",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "طبرق",
+      "en": "Tobruk",
+      "slug": "tobruk"
+    },
+    "code": {
+      "id": "LY0104016",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0104",
+      "level": 2,
+      "name": {
+        "local": "طبرق",
+        "en": "Tobruk",
+        "slug": "tobruk-ly0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY01",
+        "level": 1,
+        "name": {
+          "local": "الشرق",
+          "en": "East",
+          "slug": "east-ly01"
+        }
+      },
+      {
+        "id": "LY0104",
+        "level": 2,
+        "name": {
+          "local": "طبرق",
+          "en": "Tobruk",
+          "slug": "tobruk-ly0104"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.077",
+      "lon": "23.96"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0104013",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "امساعد",
+      "en": "Umm Saad",
+      "slug": "umm-saad"
+    },
+    "code": {
+      "id": "LY0104013",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0104",
+      "level": 2,
+      "name": {
+        "local": "طبرق",
+        "en": "Tobruk",
+        "slug": "tobruk-ly0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY01",
+        "level": 1,
+        "name": {
+          "local": "الشرق",
+          "en": "East",
+          "slug": "east-ly01"
+        }
+      },
+      {
+        "id": "LY0104",
+        "level": 2,
+        "name": {
+          "local": "طبرق",
+          "en": "Tobruk",
+          "slug": "tobruk-ly0104"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.614",
+      "lon": "25.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0106023",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "البيضاء",
+      "en": "Al Bayda",
+      "slug": "al-bayda"
+    },
+    "code": {
+      "id": "LY0106023",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0106",
+      "level": 2,
+      "name": {
+        "local": "الجبل الاخضر",
+        "en": "Al Jabal Al Akhdar",
+        "slug": "al-jabal-al-akhdar-ly0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY01",
+        "level": 1,
+        "name": {
+          "local": "الشرق",
+          "en": "East",
+          "slug": "east-ly01"
+        }
+      },
+      {
+        "id": "LY0106",
+        "level": 2,
+        "name": {
+          "local": "الجبل الاخضر",
+          "en": "Al Jabal Al Akhdar",
+          "slug": "al-jabal-al-akhdar-ly0106"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.766",
+      "lon": "21.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0106022",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "شحات",
+      "en": "Shahat",
+      "slug": "shahat"
+    },
+    "code": {
+      "id": "LY0106022",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0106",
+      "level": 2,
+      "name": {
+        "local": "الجبل الاخضر",
+        "en": "Al Jabal Al Akhdar",
+        "slug": "al-jabal-al-akhdar-ly0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY01",
+        "level": 1,
+        "name": {
+          "local": "الشرق",
+          "en": "East",
+          "slug": "east-ly01"
+        }
+      },
+      {
+        "id": "LY0106",
+        "level": 2,
+        "name": {
+          "local": "الجبل الاخضر",
+          "en": "Al Jabal Al Akhdar",
+          "slug": "al-jabal-al-akhdar-ly0106"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.808",
+      "lon": "21.87"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0107024",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "الكفرة",
+      "en": "Al Kufrah",
+      "slug": "al-kufrah"
+    },
+    "code": {
+      "id": "LY0107024",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0107",
+      "level": 2,
+      "name": {
+        "local": "الكفرة",
+        "en": "Alkufra",
+        "slug": "alkufra-ly0107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY01",
+        "level": 1,
+        "name": {
+          "local": "الشرق",
+          "en": "East",
+          "slug": "east-ly01"
+        }
+      },
+      {
+        "id": "LY0107",
+        "level": 2,
+        "name": {
+          "local": "الكفرة",
+          "en": "Alkufra",
+          "slug": "alkufra-ly0107"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.199",
+      "lon": "23.293"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0107025",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "تازربو",
+      "en": "Tazirbu",
+      "slug": "tazirbu"
+    },
+    "code": {
+      "id": "LY0107025",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0107",
+      "level": 2,
+      "name": {
+        "local": "الكفرة",
+        "en": "Alkufra",
+        "slug": "alkufra-ly0107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY01",
+        "level": 1,
+        "name": {
+          "local": "الشرق",
+          "en": "East",
+          "slug": "east-ly01"
+        }
+      },
+      {
+        "id": "LY0107",
+        "level": 2,
+        "name": {
+          "local": "الكفرة",
+          "en": "Alkufra",
+          "slug": "alkufra-ly0107"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.68",
+      "lon": "21.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0102007",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "المرج",
+      "en": "Al Marj",
+      "slug": "al-marj"
+    },
+    "code": {
+      "id": "LY0102007",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0102",
+      "level": 2,
+      "name": {
+        "local": "المرج",
+        "en": "Almarj",
+        "slug": "almarj-ly0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY01",
+        "level": 1,
+        "name": {
+          "local": "الشرق",
+          "en": "East",
+          "slug": "east-ly01"
+        }
+      },
+      {
+        "id": "LY0102",
+        "level": 2,
+        "name": {
+          "local": "المرج",
+          "en": "Almarj",
+          "slug": "almarj-ly0102"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.486",
+      "lon": "20.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0102103",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "الساحل",
+      "en": "Al Sahel",
+      "slug": "al-sahel"
+    },
+    "code": {
+      "id": "LY0102103",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0102",
+      "level": 2,
+      "name": {
+        "local": "المرج",
+        "en": "Almarj",
+        "slug": "almarj-ly0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY01",
+        "level": 1,
+        "name": {
+          "local": "الشرق",
+          "en": "East",
+          "slug": "east-ly01"
+        }
+      },
+      {
+        "id": "LY0102",
+        "level": 2,
+        "name": {
+          "local": "المرج",
+          "en": "Almarj",
+          "slug": "almarj-ly0102"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.562",
+      "lon": "21.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0102006",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "جردس العبيد",
+      "en": "Jardas Al Abid",
+      "slug": "jardas-al-abid"
+    },
+    "code": {
+      "id": "LY0102006",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0102",
+      "level": 2,
+      "name": {
+        "local": "المرج",
+        "en": "Almarj",
+        "slug": "almarj-ly0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY01",
+        "level": 1,
+        "name": {
+          "local": "الشرق",
+          "en": "East",
+          "slug": "east-ly01"
+        }
+      },
+      {
+        "id": "LY0102",
+        "level": 2,
+        "name": {
+          "local": "المرج",
+          "en": "Almarj",
+          "slug": "almarj-ly0102"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.303",
+      "lon": "20.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0105020",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "اجدابيا",
+      "en": "Ajdabiya",
+      "slug": "ajdabiya"
+    },
+    "code": {
+      "id": "LY0105020",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0105",
+      "level": 2,
+      "name": {
+        "local": "اجدابيا",
+        "en": "Ejdabia",
+        "slug": "ejdabia-ly0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY01",
+        "level": 1,
+        "name": {
+          "local": "الشرق",
+          "en": "East",
+          "slug": "east-ly01"
+        }
+      },
+      {
+        "id": "LY0105",
+        "level": 2,
+        "name": {
+          "local": "اجدابيا",
+          "en": "Ejdabia",
+          "slug": "ejdabia-ly0105"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.755",
+      "lon": "20.223"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0105019",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "أوجلة",
+      "en": "Awjilah",
+      "slug": "awjilah"
+    },
+    "code": {
+      "id": "LY0105019",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0105",
+      "level": 2,
+      "name": {
+        "local": "اجدابيا",
+        "en": "Ejdabia",
+        "slug": "ejdabia-ly0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY01",
+        "level": 1,
+        "name": {
+          "local": "الشرق",
+          "en": "East",
+          "slug": "east-ly01"
+        }
+      },
+      {
+        "id": "LY0105",
+        "level": 2,
+        "name": {
+          "local": "اجدابيا",
+          "en": "Ejdabia",
+          "slug": "ejdabia-ly0105"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.14",
+      "lon": "21.297"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0105017",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "إجخرة",
+      "en": "Jakharrad",
+      "slug": "jakharrad"
+    },
+    "code": {
+      "id": "LY0105017",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0105",
+      "level": 2,
+      "name": {
+        "local": "اجدابيا",
+        "en": "Ejdabia",
+        "slug": "ejdabia-ly0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY01",
+        "level": 1,
+        "name": {
+          "local": "الشرق",
+          "en": "East",
+          "slug": "east-ly01"
+        }
+      },
+      {
+        "id": "LY0105",
+        "level": 2,
+        "name": {
+          "local": "اجدابيا",
+          "en": "Ejdabia",
+          "slug": "ejdabia-ly0105"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.296",
+      "lon": "21.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0105018",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "جالو",
+      "en": "Jalu",
+      "slug": "jalu"
+    },
+    "code": {
+      "id": "LY0105018",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0105",
+      "level": 2,
+      "name": {
+        "local": "اجدابيا",
+        "en": "Ejdabia",
+        "slug": "ejdabia-ly0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY01",
+        "level": 1,
+        "name": {
+          "local": "الشرق",
+          "en": "East",
+          "slug": "east-ly01"
+        }
+      },
+      {
+        "id": "LY0105",
+        "level": 2,
+        "name": {
+          "local": "اجدابيا",
+          "en": "Ejdabia",
+          "slug": "ejdabia-ly0105"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.033",
+      "lon": "21.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0105021",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "مرادة",
+      "en": "Maradah",
+      "slug": "maradah"
+    },
+    "code": {
+      "id": "LY0105021",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0105",
+      "level": 2,
+      "name": {
+        "local": "اجدابيا",
+        "en": "Ejdabia",
+        "slug": "ejdabia-ly0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY01",
+        "level": 1,
+        "name": {
+          "local": "الشرق",
+          "en": "East",
+          "slug": "east-ly01"
+        }
+      },
+      {
+        "id": "LY0105",
+        "level": 2,
+        "name": {
+          "local": "اجدابيا",
+          "en": "Ejdabia",
+          "slug": "ejdabia-ly0105"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.221",
+      "lon": "19.204"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0103008",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "الأبيار",
+      "en": "Al Abyar",
+      "slug": "al-abyar"
+    },
+    "code": {
+      "id": "LY0103008",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0103",
+      "level": 2,
+      "name": {
+        "local": "بنغازي",
+        "en": "Benghazi",
+        "slug": "benghazi-ly0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY01",
+        "level": 1,
+        "name": {
+          "local": "الشرق",
+          "en": "East",
+          "slug": "east-ly01"
+        }
+      },
+      {
+        "id": "LY0103",
+        "level": 2,
+        "name": {
+          "local": "بنغازي",
+          "en": "Benghazi",
+          "slug": "benghazi-ly0103"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.19",
+      "lon": "20.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0103011",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "بنغازي",
+      "en": "Benghazi",
+      "slug": "benghazi"
+    },
+    "code": {
+      "id": "LY0103011",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0103",
+      "level": 2,
+      "name": {
+        "local": "بنغازي",
+        "en": "Benghazi",
+        "slug": "benghazi-ly0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY01",
+        "level": 1,
+        "name": {
+          "local": "الشرق",
+          "en": "East",
+          "slug": "east-ly01"
+        }
+      },
+      {
+        "id": "LY0103",
+        "level": 2,
+        "name": {
+          "local": "بنغازي",
+          "en": "Benghazi",
+          "slug": "benghazi-ly0103"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 45
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.117",
+      "lon": "20.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0103012",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "قمينس",
+      "en": "Qaminis",
+      "slug": "qaminis"
+    },
+    "code": {
+      "id": "LY0103012",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0103",
+      "level": 2,
+      "name": {
+        "local": "بنغازي",
+        "en": "Benghazi",
+        "slug": "benghazi-ly0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY01",
+        "level": 1,
+        "name": {
+          "local": "الشرق",
+          "en": "East",
+          "slug": "east-ly01"
+        }
+      },
+      {
+        "id": "LY0103",
+        "level": 2,
+        "name": {
+          "local": "بنغازي",
+          "en": "Benghazi",
+          "slug": "benghazi-ly0103"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.657",
+      "lon": "20.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0103010",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "سلوق",
+      "en": "Slukh",
+      "slug": "slukh"
+    },
+    "code": {
+      "id": "LY0103010",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0103",
+      "level": 2,
+      "name": {
+        "local": "بنغازي",
+        "en": "Benghazi",
+        "slug": "benghazi-ly0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY01",
+        "level": 1,
+        "name": {
+          "local": "الشرق",
+          "en": "East",
+          "slug": "east-ly01"
+        }
+      },
+      {
+        "id": "LY0103",
+        "level": 2,
+        "name": {
+          "local": "بنغازي",
+          "en": "Benghazi",
+          "slug": "benghazi-ly0103"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.667",
+      "lon": "20.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0103009",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "توكرة",
+      "en": "Tocra",
+      "slug": "tocra"
+    },
+    "code": {
+      "id": "LY0103009",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0103",
+      "level": 2,
+      "name": {
+        "local": "بنغازي",
+        "en": "Benghazi",
+        "slug": "benghazi-ly0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY01",
+        "level": 1,
+        "name": {
+          "local": "الشرق",
+          "en": "East",
+          "slug": "east-ly01"
+        }
+      },
+      {
+        "id": "LY0103",
+        "level": 2,
+        "name": {
+          "local": "بنغازي",
+          "en": "Benghazi",
+          "slug": "benghazi-ly0103"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.532",
+      "lon": "20.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0101004",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "القيقب",
+      "en": "Al Qayqab",
+      "slug": "al-qayqab"
+    },
+    "code": {
+      "id": "LY0101004",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0101",
+      "level": 2,
+      "name": {
+        "local": "درنه",
+        "en": "Derna",
+        "slug": "derna-ly0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY01",
+        "level": 1,
+        "name": {
+          "local": "الشرق",
+          "en": "East",
+          "slug": "east-ly01"
+        }
+      },
+      {
+        "id": "LY0101",
+        "level": 2,
+        "name": {
+          "local": "درنه",
+          "en": "Derna",
+          "slug": "derna-ly0101"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.725",
+      "lon": "22.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0101003",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "القبة",
+      "en": "Al Qubah",
+      "slug": "al-qubah"
+    },
+    "code": {
+      "id": "LY0101003",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0101",
+      "level": 2,
+      "name": {
+        "local": "درنه",
+        "en": "Derna",
+        "slug": "derna-ly0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY01",
+        "level": 1,
+        "name": {
+          "local": "الشرق",
+          "en": "East",
+          "slug": "east-ly01"
+        }
+      },
+      {
+        "id": "LY0101",
+        "level": 2,
+        "name": {
+          "local": "درنه",
+          "en": "Derna",
+          "slug": "derna-ly0101"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.763",
+      "lon": "22.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0101002",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "درنة",
+      "en": "Derna",
+      "slug": "derna"
+    },
+    "code": {
+      "id": "LY0101002",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0101",
+      "level": 2,
+      "name": {
+        "local": "درنه",
+        "en": "Derna",
+        "slug": "derna-ly0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY01",
+        "level": 1,
+        "name": {
+          "local": "الشرق",
+          "en": "East",
+          "slug": "east-ly01"
+        }
+      },
+      {
+        "id": "LY0101",
+        "level": 2,
+        "name": {
+          "local": "درنه",
+          "en": "Derna",
+          "slug": "derna-ly0101"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.759",
+      "lon": "22.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0101005",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "الأبرق",
+      "en": "Labraq",
+      "slug": "labraq"
+    },
+    "code": {
+      "id": "LY0101005",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0101",
+      "level": 2,
+      "name": {
+        "local": "درنه",
+        "en": "Derna",
+        "slug": "derna-ly0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY01",
+        "level": 1,
+        "name": {
+          "local": "الشرق",
+          "en": "East",
+          "slug": "east-ly01"
+        }
+      },
+      {
+        "id": "LY0101",
+        "level": 2,
+        "name": {
+          "local": "درنه",
+          "en": "Derna",
+          "slug": "derna-ly0101"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.787",
+      "lon": "21.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0101001",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "ام الرزم",
+      "en": "Umm ar Rizam",
+      "slug": "umm-ar-rizam"
+    },
+    "code": {
+      "id": "LY0101001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0101",
+      "level": 2,
+      "name": {
+        "local": "درنه",
+        "en": "Derna",
+        "slug": "derna-ly0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY01",
+        "level": 1,
+        "name": {
+          "local": "الشرق",
+          "en": "East",
+          "slug": "east-ly01"
+        }
+      },
+      {
+        "id": "LY0101",
+        "level": 2,
+        "name": {
+          "local": "درنه",
+          "en": "Derna",
+          "slug": "derna-ly0101"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.532",
+      "lon": "23.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0317086",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "الجفرة",
+      "en": "Al Jufrah",
+      "slug": "al-jufrah"
+    },
+    "code": {
+      "id": "LY0317086",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0317",
+      "level": 2,
+      "name": {
+        "local": "الجفرة",
+        "en": "Aljufra",
+        "slug": "aljufra-ly0317"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY03",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-ly03"
+        }
+      },
+      {
+        "id": "LY0317",
+        "level": 2,
+        "name": {
+          "local": "الجفرة",
+          "en": "Aljufra",
+          "slug": "aljufra-ly0317"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.161",
+      "lon": "16.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0318088",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "إدري الشاطئ",
+      "en": "Adiri",
+      "slug": "adiri"
+    },
+    "code": {
+      "id": "LY0318088",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0318",
+      "level": 2,
+      "name": {
+        "local": "وادى الشاطئ",
+        "en": "Wadi Ashshati",
+        "slug": "wadi-ashshati-ly0318"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY03",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-ly03"
+        }
+      },
+      {
+        "id": "LY0318",
+        "level": 2,
+        "name": {
+          "local": "وادى الشاطئ",
+          "en": "Wadi Ashshati",
+          "slug": "wadi-ashshati-ly0318"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.444",
+      "lon": "13.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0318087",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "براك الشاطئ",
+      "en": "Brak",
+      "slug": "brak"
+    },
+    "code": {
+      "id": "LY0318087",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0318",
+      "level": 2,
+      "name": {
+        "local": "وادى الشاطئ",
+        "en": "Wadi Ashshati",
+        "slug": "wadi-ashshati-ly0318"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY03",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-ly03"
+        }
+      },
+      {
+        "id": "LY0318",
+        "level": 2,
+        "name": {
+          "local": "وادى الشاطئ",
+          "en": "Wadi Ashshati",
+          "slug": "wadi-ashshati-ly0318"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.552",
+      "lon": "14.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0321095",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "غات",
+      "en": "Ghat",
+      "slug": "ghat"
+    },
+    "code": {
+      "id": "LY0321095",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0321",
+      "level": 2,
+      "name": {
+        "local": "غات",
+        "en": "Ghat",
+        "slug": "ghat-ly0321"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY03",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-ly03"
+        }
+      },
+      {
+        "id": "LY0321",
+        "level": 2,
+        "name": {
+          "local": "غات",
+          "en": "Ghat",
+          "slug": "ghat-ly0321"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.963",
+      "lon": "10.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0322096",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "القطرون",
+      "en": "Al Qatrun",
+      "slug": "al-qatrun"
+    },
+    "code": {
+      "id": "LY0322096",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0322",
+      "level": 2,
+      "name": {
+        "local": "مرزق",
+        "en": "Murzuq",
+        "slug": "murzuq-ly0322"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY03",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-ly03"
+        }
+      },
+      {
+        "id": "LY0322",
+        "level": 2,
+        "name": {
+          "local": "مرزق",
+          "en": "Murzuq",
+          "slug": "murzuq-ly0322"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.889",
+      "lon": "14.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0322098",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "مرزق",
+      "en": "Murzuq",
+      "slug": "murzuq"
+    },
+    "code": {
+      "id": "LY0322098",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0322",
+      "level": 2,
+      "name": {
+        "local": "مرزق",
+        "en": "Murzuq",
+        "slug": "murzuq-ly0322"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY03",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-ly03"
+        }
+      },
+      {
+        "id": "LY0322",
+        "level": 2,
+        "name": {
+          "local": "مرزق",
+          "en": "Murzuq",
+          "slug": "murzuq-ly0322"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.914",
+      "lon": "13.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0322097",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "تراغن",
+      "en": "Taraghin",
+      "slug": "taraghin"
+    },
+    "code": {
+      "id": "LY0322097",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0322",
+      "level": 2,
+      "name": {
+        "local": "مرزق",
+        "en": "Murzuq",
+        "slug": "murzuq-ly0322"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY03",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-ly03"
+        }
+      },
+      {
+        "id": "LY0322",
+        "level": 2,
+        "name": {
+          "local": "مرزق",
+          "en": "Murzuq",
+          "slug": "murzuq-ly0322"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.937",
+      "lon": "14.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0322099",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "وادي عتبة",
+      "en": "Wadi Attaba",
+      "slug": "wadi-attaba"
+    },
+    "code": {
+      "id": "LY0322099",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0322",
+      "level": 2,
+      "name": {
+        "local": "مرزق",
+        "en": "Murzuq",
+        "slug": "murzuq-ly0322"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY03",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-ly03"
+        }
+      },
+      {
+        "id": "LY0322",
+        "level": 2,
+        "name": {
+          "local": "مرزق",
+          "en": "Murzuq",
+          "slug": "murzuq-ly0322"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.094",
+      "lon": "13.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0319101",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "البوانيس",
+      "en": "Al Bwanees",
+      "slug": "al-bwanees"
+    },
+    "code": {
+      "id": "LY0319101",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0319",
+      "level": 2,
+      "name": {
+        "local": "سبها",
+        "en": "Sebha",
+        "slug": "sebha-ly0319"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY03",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-ly03"
+        }
+      },
+      {
+        "id": "LY0319",
+        "level": 2,
+        "name": {
+          "local": "سبها",
+          "en": "Sebha",
+          "slug": "sebha-ly0319"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.267",
+      "lon": "14.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0319090",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "القرضة الشاطئ",
+      "en": "Al Qardha AlShati",
+      "slug": "al-qardha-alshati"
+    },
+    "code": {
+      "id": "LY0319090",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0319",
+      "level": 2,
+      "name": {
+        "local": "سبها",
+        "en": "Sebha",
+        "slug": "sebha-ly0319"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY03",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-ly03"
+        }
+      },
+      {
+        "id": "LY0319",
+        "level": 2,
+        "name": {
+          "local": "سبها",
+          "en": "Sebha",
+          "slug": "sebha-ly0319"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.029",
+      "lon": "14.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0319089",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "سبها",
+      "en": "Sabha",
+      "slug": "sabha"
+    },
+    "code": {
+      "id": "LY0319089",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0319",
+      "level": 2,
+      "name": {
+        "local": "سبها",
+        "en": "Sebha",
+        "slug": "sebha-ly0319"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY03",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-ly03"
+        }
+      },
+      {
+        "id": "LY0319",
+        "level": 2,
+        "name": {
+          "local": "سبها",
+          "en": "Sebha",
+          "slug": "sebha-ly0319"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.033",
+      "lon": "14.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0320093",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "الغريفة",
+      "en": "Al Ghurayfah",
+      "slug": "al-ghurayfah"
+    },
+    "code": {
+      "id": "LY0320093",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0320",
+      "level": 2,
+      "name": {
+        "local": "اوباري",
+        "en": "Ubari",
+        "slug": "ubari-ly0320"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY03",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-ly03"
+        }
+      },
+      {
+        "id": "LY0320",
+        "level": 2,
+        "name": {
+          "local": "اوباري",
+          "en": "Ubari",
+          "slug": "ubari-ly0320"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.526",
+      "lon": "13.01"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0320094",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "أوباري",
+      "en": "Awbari",
+      "slug": "awbari"
+    },
+    "code": {
+      "id": "LY0320094",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0320",
+      "level": 2,
+      "name": {
+        "local": "اوباري",
+        "en": "Ubari",
+        "slug": "ubari-ly0320"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY03",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-ly03"
+        }
+      },
+      {
+        "id": "LY0320",
+        "level": 2,
+        "name": {
+          "local": "اوباري",
+          "en": "Ubari",
+          "slug": "ubari-ly0320"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.59",
+      "lon": "12.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0320091",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "بنت بية",
+      "en": "Bint Baya",
+      "slug": "bint-baya"
+    },
+    "code": {
+      "id": "LY0320091",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0320",
+      "level": 2,
+      "name": {
+        "local": "اوباري",
+        "en": "Ubari",
+        "slug": "ubari-ly0320"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY03",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-ly03"
+        }
+      },
+      {
+        "id": "LY0320",
+        "level": 2,
+        "name": {
+          "local": "اوباري",
+          "en": "Ubari",
+          "slug": "ubari-ly0320"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.644",
+      "lon": "13.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0320092",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "البريقة",
+      "en": "Burayk",
+      "slug": "burayk"
+    },
+    "code": {
+      "id": "LY0320092",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0320",
+      "level": 2,
+      "name": {
+        "local": "اوباري",
+        "en": "Ubari",
+        "slug": "ubari-ly0320"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY03",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-ly03"
+        }
+      },
+      {
+        "id": "LY0320",
+        "level": 2,
+        "name": {
+          "local": "اوباري",
+          "en": "Ubari",
+          "slug": "ubari-ly0320"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.557",
+      "lon": "13.113"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0216072",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "الأصابعة",
+      "en": "Al Asabiah",
+      "slug": "al-asabiah"
+    },
+    "code": {
+      "id": "LY0216072",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0216",
+      "level": 2,
+      "name": {
+        "local": "الجبل الغربي",
+        "en": "Al Jabal Al Gharbi",
+        "slug": "al-jabal-al-gharbi-ly0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0216",
+        "level": 2,
+        "name": {
+          "local": "الجبل الغربي",
+          "en": "Al Jabal Al Gharbi",
+          "slug": "al-jabal-al-gharbi-ly0216"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.033",
+      "lon": "12.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0216073",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "القلعة",
+      "en": "Al Qal'ah",
+      "slug": "al-qalah"
+    },
+    "code": {
+      "id": "LY0216073",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0216",
+      "level": 2,
+      "name": {
+        "local": "الجبل الغربي",
+        "en": "Al Jabal Al Gharbi",
+        "slug": "al-jabal-al-gharbi-ly0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0216",
+        "level": 2,
+        "name": {
+          "local": "الجبل الغربي",
+          "en": "Al Jabal Al Gharbi",
+          "slug": "al-jabal-al-gharbi-ly0216"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.048",
+      "lon": "12.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0216082",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "الشقيقة",
+      "en": "Al Shaqeqah",
+      "slug": "al-shaqeqah"
+    },
+    "code": {
+      "id": "LY0216082",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0216",
+      "level": 2,
+      "name": {
+        "local": "الجبل الغربي",
+        "en": "Al Jabal Al Gharbi",
+        "slug": "al-jabal-al-gharbi-ly0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0216",
+        "level": 2,
+        "name": {
+          "local": "الجبل الغربي",
+          "en": "Al Jabal Al Gharbi",
+          "slug": "al-jabal-al-gharbi-ly0216"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.65",
+      "lon": "12.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0216083",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "الشرقية",
+      "en": "Al Sharqiyah",
+      "slug": "al-sharqiyah"
+    },
+    "code": {
+      "id": "LY0216083",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0216",
+      "level": 2,
+      "name": {
+        "local": "الجبل الغربي",
+        "en": "Al Jabal Al Gharbi",
+        "slug": "al-jabal-al-gharbi-ly0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0216",
+        "level": 2,
+        "name": {
+          "local": "الجبل الغربي",
+          "en": "Al Jabal Al Gharbi",
+          "slug": "al-jabal-al-gharbi-ly0216"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.389",
+      "lon": "13.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0216084",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "الشويريف",
+      "en": "AlShwareef",
+      "slug": "alshwareef"
+    },
+    "code": {
+      "id": "LY0216084",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0216",
+      "level": 2,
+      "name": {
+        "local": "الجبل الغربي",
+        "en": "Al Jabal Al Gharbi",
+        "slug": "al-jabal-al-gharbi-ly0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0216",
+        "level": 2,
+        "name": {
+          "local": "الجبل الغربي",
+          "en": "Al Jabal Al Gharbi",
+          "slug": "al-jabal-al-gharbi-ly0216"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.979",
+      "lon": "14.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0216071",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "الزنتان",
+      "en": "Alzintan",
+      "slug": "alzintan"
+    },
+    "code": {
+      "id": "LY0216071",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0216",
+      "level": 2,
+      "name": {
+        "local": "الجبل الغربي",
+        "en": "Al Jabal Al Gharbi",
+        "slug": "al-jabal-al-gharbi-ly0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0216",
+        "level": 2,
+        "name": {
+          "local": "الجبل الغربي",
+          "en": "Al Jabal Al Gharbi",
+          "slug": "al-jabal-al-gharbi-ly0216"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.93",
+      "lon": "12.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0216081",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "الرياينة",
+      "en": "Ar Rayayna",
+      "slug": "ar-rayayna"
+    },
+    "code": {
+      "id": "LY0216081",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0216",
+      "level": 2,
+      "name": {
+        "local": "الجبل الغربي",
+        "en": "Al Jabal Al Gharbi",
+        "slug": "al-jabal-al-gharbi-ly0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0216",
+        "level": 2,
+        "name": {
+          "local": "الجبل الغربي",
+          "en": "Al Jabal Al Gharbi",
+          "slug": "al-jabal-al-gharbi-ly0216"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.995",
+      "lon": "12.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0216079",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "الرحيبات",
+      "en": "Ar Ruhaibat",
+      "slug": "ar-ruhaibat"
+    },
+    "code": {
+      "id": "LY0216079",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0216",
+      "level": 2,
+      "name": {
+        "local": "الجبل الغربي",
+        "en": "Al Jabal Al Gharbi",
+        "slug": "al-jabal-al-gharbi-ly0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0216",
+        "level": 2,
+        "name": {
+          "local": "الجبل الغربي",
+          "en": "Al Jabal Al Gharbi",
+          "slug": "al-jabal-al-gharbi-ly0216"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.763",
+      "lon": "11.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0216077",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "الرجبان",
+      "en": "Ar Rujban",
+      "slug": "ar-rujban"
+    },
+    "code": {
+      "id": "LY0216077",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0216",
+      "level": 2,
+      "name": {
+        "local": "الجبل الغربي",
+        "en": "Al Jabal Al Gharbi",
+        "slug": "al-jabal-al-gharbi-ly0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0216",
+        "level": 2,
+        "name": {
+          "local": "الجبل الغربي",
+          "en": "Al Jabal Al Gharbi",
+          "slug": "al-jabal-al-gharbi-ly0216"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.94",
+      "lon": "12.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0216075",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "غريان",
+      "en": "Garyan",
+      "slug": "garyan"
+    },
+    "code": {
+      "id": "LY0216075",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0216",
+      "level": 2,
+      "name": {
+        "local": "الجبل الغربي",
+        "en": "Al Jabal Al Gharbi",
+        "slug": "al-jabal-al-gharbi-ly0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0216",
+        "level": 2,
+        "name": {
+          "local": "الجبل الغربي",
+          "en": "Al Jabal Al Gharbi",
+          "slug": "al-jabal-al-gharbi-ly0216"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 40
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.172",
+      "lon": "13.021"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0216080",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "قواليش",
+      "en": "Gwalesh",
+      "slug": "gwalesh"
+    },
+    "code": {
+      "id": "LY0216080",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0216",
+      "level": 2,
+      "name": {
+        "local": "الجبل الغربي",
+        "en": "Al Jabal Al Gharbi",
+        "slug": "al-jabal-al-gharbi-ly0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0216",
+        "level": 2,
+        "name": {
+          "local": "الجبل الغربي",
+          "en": "Al Jabal Al Gharbi",
+          "slug": "al-jabal-al-gharbi-ly0216"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.997",
+      "lon": "12.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0216078",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "جادو",
+      "en": "Jadu",
+      "slug": "jadu"
+    },
+    "code": {
+      "id": "LY0216078",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0216",
+      "level": 2,
+      "name": {
+        "local": "الجبل الغربي",
+        "en": "Al Jabal Al Gharbi",
+        "slug": "al-jabal-al-gharbi-ly0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0216",
+        "level": 2,
+        "name": {
+          "local": "الجبل الغربي",
+          "en": "Al Jabal Al Gharbi",
+          "slug": "al-jabal-al-gharbi-ly0216"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.953",
+      "lon": "12.026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0216076",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "ككلة",
+      "en": "Kikla",
+      "slug": "kikla"
+    },
+    "code": {
+      "id": "LY0216076",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0216",
+      "level": 2,
+      "name": {
+        "local": "الجبل الغربي",
+        "en": "Al Jabal Al Gharbi",
+        "slug": "al-jabal-al-gharbi-ly0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0216",
+        "level": 2,
+        "name": {
+          "local": "الجبل الغربي",
+          "en": "Al Jabal Al Gharbi",
+          "slug": "al-jabal-al-gharbi-ly0216"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 26
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.069",
+      "lon": "12.694"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0216085",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "مزدة",
+      "en": "Mizdah",
+      "slug": "mizdah"
+    },
+    "code": {
+      "id": "LY0216085",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0216",
+      "level": 2,
+      "name": {
+        "local": "الجبل الغربي",
+        "en": "Al Jabal Al Gharbi",
+        "slug": "al-jabal-al-gharbi-ly0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0216",
+        "level": 2,
+        "name": {
+          "local": "الجبل الغربي",
+          "en": "Al Jabal Al Gharbi",
+          "slug": "al-jabal-al-gharbi-ly0216"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.447",
+      "lon": "12.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0216070",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "نسمة",
+      "en": "Nasmah",
+      "slug": "nasmah"
+    },
+    "code": {
+      "id": "LY0216070",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0216",
+      "level": 2,
+      "name": {
+        "local": "الجبل الغربي",
+        "en": "Al Jabal Al Gharbi",
+        "slug": "al-jabal-al-gharbi-ly0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0216",
+        "level": 2,
+        "name": {
+          "local": "الجبل الغربي",
+          "en": "Al Jabal Al Gharbi",
+          "slug": "al-jabal-al-gharbi-ly0216"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.392",
+      "lon": "13.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0216074",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "يفرن",
+      "en": "Yefren",
+      "slug": "yefren"
+    },
+    "code": {
+      "id": "LY0216074",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0216",
+      "level": 2,
+      "name": {
+        "local": "الجبل الغربي",
+        "en": "Al Jabal Al Gharbi",
+        "slug": "al-jabal-al-gharbi-ly0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0216",
+        "level": 2,
+        "name": {
+          "local": "الجبل الغربي",
+          "en": "Al Jabal Al Gharbi",
+          "slug": "al-jabal-al-gharbi-ly0216"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.064",
+      "lon": "12.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0212054",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "العزيزية",
+      "en": "Al Aziziyah",
+      "slug": "al-aziziyah"
+    },
+    "code": {
+      "id": "LY0212054",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0212",
+      "level": 2,
+      "name": {
+        "local": "الجفارة",
+        "en": "Aljfara",
+        "slug": "aljfara-ly0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0212",
+        "level": 2,
+        "name": {
+          "local": "الجفارة",
+          "en": "Aljfara",
+          "slug": "aljfara-ly0212"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.533",
+      "lon": "13.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0212055",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "الماية",
+      "en": "Al Mayah",
+      "slug": "al-mayah"
+    },
+    "code": {
+      "id": "LY0212055",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0212",
+      "level": 2,
+      "name": {
+        "local": "الجفارة",
+        "en": "Aljfara",
+        "slug": "aljfara-ly0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0212",
+        "level": 2,
+        "name": {
+          "local": "الجفارة",
+          "en": "Aljfara",
+          "slug": "aljfara-ly0212"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.792",
+      "lon": "12.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0212056",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "الزهراء",
+      "en": "Az Zahrah",
+      "slug": "az-zahrah"
+    },
+    "code": {
+      "id": "LY0212056",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0212",
+      "level": 2,
+      "name": {
+        "local": "الجفارة",
+        "en": "Aljfara",
+        "slug": "aljfara-ly0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0212",
+        "level": 2,
+        "name": {
+          "local": "الجفارة",
+          "en": "Aljfara",
+          "slug": "aljfara-ly0212"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.678",
+      "lon": "12.872"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0212051",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "السبيعة",
+      "en": "Espiaa",
+      "slug": "espiaa"
+    },
+    "code": {
+      "id": "LY0212051",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0212",
+      "level": 2,
+      "name": {
+        "local": "الجفارة",
+        "en": "Aljfara",
+        "slug": "aljfara-ly0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0212",
+        "level": 2,
+        "name": {
+          "local": "الجفارة",
+          "en": "Aljfara",
+          "slug": "aljfara-ly0212"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.537",
+      "lon": "13.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0212053",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "جنزور",
+      "en": "Janzour",
+      "slug": "janzour"
+    },
+    "code": {
+      "id": "LY0212053",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0212",
+      "level": 2,
+      "name": {
+        "local": "الجفارة",
+        "en": "Aljfara",
+        "slug": "aljfara-ly0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0212",
+        "level": 2,
+        "name": {
+          "local": "الجفارة",
+          "en": "Aljfara",
+          "slug": "aljfara-ly0212"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.826",
+      "lon": "13.026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0212057",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "مشاشية",
+      "en": "Mashashiya",
+      "slug": "mashashiya"
+    },
+    "code": {
+      "id": "LY0212057",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0212",
+      "level": 2,
+      "name": {
+        "local": "الجفارة",
+        "en": "Aljfara",
+        "slug": "aljfara-ly0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0212",
+        "level": 2,
+        "name": {
+          "local": "الجفارة",
+          "en": "Aljfara",
+          "slug": "aljfara-ly0212"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.978",
+      "lon": "12.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0212050",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "قصر بن غشير",
+      "en": "Qasr Bin Ghashir",
+      "slug": "qasr-bin-ghashir"
+    },
+    "code": {
+      "id": "LY0212050",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0212",
+      "level": 2,
+      "name": {
+        "local": "الجفارة",
+        "en": "Aljfara",
+        "slug": "aljfara-ly0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0212",
+        "level": 2,
+        "name": {
+          "local": "الجفارة",
+          "en": "Aljfara",
+          "slug": "aljfara-ly0212"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.682",
+      "lon": "13.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0212052",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "سواني بن آدم",
+      "en": "Sawani Bin Adam",
+      "slug": "sawani-bin-adam"
+    },
+    "code": {
+      "id": "LY0212052",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0212",
+      "level": 2,
+      "name": {
+        "local": "الجفارة",
+        "en": "Aljfara",
+        "slug": "aljfara-ly0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0212",
+        "level": 2,
+        "name": {
+          "local": "الجفارة",
+          "en": "Aljfara",
+          "slug": "aljfara-ly0212"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.713",
+      "lon": "13.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0212048",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "سيدي السايح",
+      "en": "Sidi al Saeh",
+      "slug": "sidi-al-saeh"
+    },
+    "code": {
+      "id": "LY0212048",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0212",
+      "level": 2,
+      "name": {
+        "local": "الجفارة",
+        "en": "Aljfara",
+        "slug": "aljfara-ly0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0212",
+        "level": 2,
+        "name": {
+          "local": "الجفارة",
+          "en": "Aljfara",
+          "slug": "aljfara-ly0212"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.561",
+      "lon": "13.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0212049",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "سوق الخميس",
+      "en": "Suq al Khamis",
+      "slug": "suq-al-khamis"
+    },
+    "code": {
+      "id": "LY0212049",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0212",
+      "level": 2,
+      "name": {
+        "local": "الجفارة",
+        "en": "Aljfara",
+        "slug": "aljfara-ly0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0212",
+        "level": 2,
+        "name": {
+          "local": "الجفارة",
+          "en": "Aljfara",
+          "slug": "aljfara-ly0212"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.528",
+      "lon": "13.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0210037",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "الخمس",
+      "en": "Al Khums",
+      "slug": "al-khums"
+    },
+    "code": {
+      "id": "LY0210037",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0210",
+      "level": 2,
+      "name": {
+        "local": "المرقب",
+        "en": "Almargeb",
+        "slug": "almargeb-ly0210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0210",
+        "level": 2,
+        "name": {
+          "local": "المرقب",
+          "en": "Almargeb",
+          "slug": "almargeb-ly0210"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.652",
+      "lon": "14.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0210040",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "القره بولي",
+      "en": "Garaboli",
+      "slug": "garaboli"
+    },
+    "code": {
+      "id": "LY0210040",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0210",
+      "level": 2,
+      "name": {
+        "local": "المرقب",
+        "en": "Almargeb",
+        "slug": "almargeb-ly0210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0210",
+        "level": 2,
+        "name": {
+          "local": "المرقب",
+          "en": "Almargeb",
+          "slug": "almargeb-ly0210"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.743",
+      "lon": "13.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0210038",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "مسلاتة",
+      "en": "Msallata",
+      "slug": "msallata"
+    },
+    "code": {
+      "id": "LY0210038",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0210",
+      "level": 2,
+      "name": {
+        "local": "المرقب",
+        "en": "Almargeb",
+        "slug": "almargeb-ly0210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0210",
+        "level": 2,
+        "name": {
+          "local": "المرقب",
+          "en": "Almargeb",
+          "slug": "almargeb-ly0210"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 41
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.58",
+      "lon": "14.042"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0210039",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "قصر الأخيار",
+      "en": "Qasr Al Akhyar",
+      "slug": "qasr-al-akhyar"
+    },
+    "code": {
+      "id": "LY0210039",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0210",
+      "level": 2,
+      "name": {
+        "local": "المرقب",
+        "en": "Almargeb",
+        "slug": "almargeb-ly0210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0210",
+        "level": 2,
+        "name": {
+          "local": "المرقب",
+          "en": "Almargeb",
+          "slug": "almargeb-ly0210"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.697",
+      "lon": "13.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0210042",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "سوق الجمعة",
+      "en": "Suq al Jumah",
+      "slug": "suq-al-jumah"
+    },
+    "code": {
+      "id": "LY0210042",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0210",
+      "level": 2,
+      "name": {
+        "local": "المرقب",
+        "en": "Almargeb",
+        "slug": "almargeb-ly0210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0210",
+        "level": 2,
+        "name": {
+          "local": "المرقب",
+          "en": "Almargeb",
+          "slug": "almargeb-ly0210"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.262",
+      "lon": "13.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0210041",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "ترهونة",
+      "en": "Tarhuna",
+      "slug": "tarhuna"
+    },
+    "code": {
+      "id": "LY0210041",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0210",
+      "level": 2,
+      "name": {
+        "local": "المرقب",
+        "en": "Almargeb",
+        "slug": "almargeb-ly0210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0210",
+        "level": 2,
+        "name": {
+          "local": "المرقب",
+          "en": "Almargeb",
+          "slug": "almargeb-ly0210"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 25
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.437",
+      "lon": "13.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0215064",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "العجيلات",
+      "en": "Al Ajaylat",
+      "slug": "al-ajaylat"
+    },
+    "code": {
+      "id": "LY0215064",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0215",
+      "level": 2,
+      "name": {
+        "local": "زوارة",
+        "en": "Zwara",
+        "slug": "zwara-ly0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0215",
+        "level": 2,
+        "name": {
+          "local": "زوارة",
+          "en": "Zwara",
+          "slug": "zwara-ly0215"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.758",
+      "lon": "12.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0215067",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "الجميل",
+      "en": "Aljmail",
+      "slug": "aljmail"
+    },
+    "code": {
+      "id": "LY0215067",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0215",
+      "level": 2,
+      "name": {
+        "local": "زوارة",
+        "en": "Zwara",
+        "slug": "zwara-ly0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0215",
+        "level": 2,
+        "name": {
+          "local": "زوارة",
+          "en": "Zwara",
+          "slug": "zwara-ly0215"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.853",
+      "lon": "12.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0215068",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "رقدالين",
+      "en": "Riqdalin",
+      "slug": "riqdalin"
+    },
+    "code": {
+      "id": "LY0215068",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0215",
+      "level": 2,
+      "name": {
+        "local": "زوارة",
+        "en": "Zwara",
+        "slug": "zwara-ly0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0215",
+        "level": 2,
+        "name": {
+          "local": "زوارة",
+          "en": "Zwara",
+          "slug": "zwara-ly0215"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.887",
+      "lon": "11.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0215065",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "صبراتة",
+      "en": "Sabratah",
+      "slug": "sabratah"
+    },
+    "code": {
+      "id": "LY0215065",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0215",
+      "level": 2,
+      "name": {
+        "local": "زوارة",
+        "en": "Zwara",
+        "slug": "zwara-ly0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0215",
+        "level": 2,
+        "name": {
+          "local": "زوارة",
+          "en": "Zwara",
+          "slug": "zwara-ly0215"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.792",
+      "lon": "12.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0215069",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "زلطن",
+      "en": "Ziltan",
+      "slug": "ziltan"
+    },
+    "code": {
+      "id": "LY0215069",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0215",
+      "level": 2,
+      "name": {
+        "local": "زوارة",
+        "en": "Zwara",
+        "slug": "zwara-ly0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0215",
+        "level": 2,
+        "name": {
+          "local": "زوارة",
+          "en": "Zwara",
+          "slug": "zwara-ly0215"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.946",
+      "lon": "11.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0215066",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "زوارة",
+      "en": "Zuwara",
+      "slug": "zuwara"
+    },
+    "code": {
+      "id": "LY0215066",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0215",
+      "level": 2,
+      "name": {
+        "local": "زوارة",
+        "en": "Zwara",
+        "slug": "zwara-ly0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0215",
+        "level": 2,
+        "name": {
+          "local": "زوارة",
+          "en": "Zwara",
+          "slug": "zwara-ly0215"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.933",
+      "lon": "12.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0213058",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "الزاوية",
+      "en": "Az Zawiyah",
+      "slug": "az-zawiyah"
+    },
+    "code": {
+      "id": "LY0213058",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0213",
+      "level": 2,
+      "name": {
+        "local": "الزاوية",
+        "en": "Azzawya",
+        "slug": "azzawya-ly0213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0213",
+        "level": 2,
+        "name": {
+          "local": "الزاوية",
+          "en": "Azzawya",
+          "slug": "azzawya-ly0213"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 24
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.763",
+      "lon": "12.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0213100",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "غرب الزاوية",
+      "en": "Gharb Al Zawiya",
+      "slug": "gharb-al-zawiya"
+    },
+    "code": {
+      "id": "LY0213100",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0213",
+      "level": 2,
+      "name": {
+        "local": "الزاوية",
+        "en": "Azzawya",
+        "slug": "azzawya-ly0213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0213",
+        "level": 2,
+        "name": {
+          "local": "الزاوية",
+          "en": "Azzawya",
+          "slug": "azzawya-ly0213"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.767",
+      "lon": "12.626"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0213102",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "الزاوية جنوب",
+      "en": "South Zawiyah",
+      "slug": "south-zawiyah"
+    },
+    "code": {
+      "id": "LY0213102",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0213",
+      "level": 2,
+      "name": {
+        "local": "الزاوية",
+        "en": "Azzawya",
+        "slug": "azzawya-ly0213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0213",
+        "level": 2,
+        "name": {
+          "local": "الزاوية",
+          "en": "Azzawya",
+          "slug": "azzawya-ly0213"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.312",
+      "lon": "12.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0213059",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "صرمان",
+      "en": "Surman",
+      "slug": "surman"
+    },
+    "code": {
+      "id": "LY0213059",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0213",
+      "level": 2,
+      "name": {
+        "local": "الزاوية",
+        "en": "Azzawya",
+        "slug": "azzawya-ly0213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0213",
+        "level": 2,
+        "name": {
+          "local": "الزاوية",
+          "en": "Azzawya",
+          "slug": "azzawya-ly0213"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.758",
+      "lon": "12.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0213104",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "ظاهر الجبل",
+      "en": "Thaher Al Jabal",
+      "slug": "thaher-al-jabal"
+    },
+    "code": {
+      "id": "LY0213104",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0213",
+      "level": 2,
+      "name": {
+        "local": "الزاوية",
+        "en": "Azzawya",
+        "slug": "azzawya-ly0213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0213",
+        "level": 2,
+        "name": {
+          "local": "الزاوية",
+          "en": "Azzawya",
+          "slug": "azzawya-ly0213"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.633",
+      "lon": "12.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0214063",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "بني وليد",
+      "en": "Bani Waled",
+      "slug": "bani-waled"
+    },
+    "code": {
+      "id": "LY0214063",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0214",
+      "level": 2,
+      "name": {
+        "local": "مصراته",
+        "en": "Misrata",
+        "slug": "misrata-ly0214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0214",
+        "level": 2,
+        "name": {
+          "local": "مصراته",
+          "en": "Misrata",
+          "slug": "misrata-ly0214"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.757",
+      "lon": "13.995"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0214060",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "مصراتة",
+      "en": "Misratah",
+      "slug": "misratah"
+    },
+    "code": {
+      "id": "LY0214060",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0214",
+      "level": 2,
+      "name": {
+        "local": "مصراته",
+        "en": "Misrata",
+        "slug": "misrata-ly0214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0214",
+        "level": 2,
+        "name": {
+          "local": "مصراته",
+          "en": "Misrata",
+          "slug": "misrata-ly0214"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 24
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.978",
+      "lon": "12.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0214061",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "تاورغاء",
+      "en": "Tawergha",
+      "slug": "tawergha"
+    },
+    "code": {
+      "id": "LY0214061",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0214",
+      "level": 2,
+      "name": {
+        "local": "مصراته",
+        "en": "Misrata",
+        "slug": "misrata-ly0214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0214",
+        "level": 2,
+        "name": {
+          "local": "مصراته",
+          "en": "Misrata",
+          "slug": "misrata-ly0214"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.02",
+      "lon": "15.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0214062",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "زليتن",
+      "en": "Zliten",
+      "slug": "zliten"
+    },
+    "code": {
+      "id": "LY0214062",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0214",
+      "level": 2,
+      "name": {
+        "local": "مصراته",
+        "en": "Misrata",
+        "slug": "misrata-ly0214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0214",
+        "level": 2,
+        "name": {
+          "local": "مصراته",
+          "en": "Misrata",
+          "slug": "misrata-ly0214"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.468",
+      "lon": "14.566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0209030",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "الحرابة",
+      "en": "Al Harabah",
+      "slug": "al-harabah"
+    },
+    "code": {
+      "id": "LY0209030",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0209",
+      "level": 2,
+      "name": {
+        "local": "نالوت",
+        "en": "Nalut",
+        "slug": "nalut-ly0209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0209",
+        "level": 2,
+        "name": {
+          "local": "نالوت",
+          "en": "Nalut",
+          "slug": "nalut-ly0209"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.774",
+      "lon": "11.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0209032",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "الحوامد",
+      "en": "Al Hawamid",
+      "slug": "al-hawamid"
+    },
+    "code": {
+      "id": "LY0209032",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0209",
+      "level": 2,
+      "name": {
+        "local": "نالوت",
+        "en": "Nalut",
+        "slug": "nalut-ly0209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0209",
+        "level": 2,
+        "name": {
+          "local": "نالوت",
+          "en": "Nalut",
+          "slug": "nalut-ly0209"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.975",
+      "lon": "11.162"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0209036",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "باطن الجبل",
+      "en": "Baten Al Jabal",
+      "slug": "baten-al-jabal"
+    },
+    "code": {
+      "id": "LY0209036",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0209",
+      "level": 2,
+      "name": {
+        "local": "نالوت",
+        "en": "Nalut",
+        "slug": "nalut-ly0209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0209",
+        "level": 2,
+        "name": {
+          "local": "نالوت",
+          "en": "Nalut",
+          "slug": "nalut-ly0209"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.032",
+      "lon": "11.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0209035",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "درج",
+      "en": "Dirj",
+      "slug": "dirj"
+    },
+    "code": {
+      "id": "LY0209035",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0209",
+      "level": 2,
+      "name": {
+        "local": "نالوت",
+        "en": "Nalut",
+        "slug": "nalut-ly0209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0209",
+        "level": 2,
+        "name": {
+          "local": "نالوت",
+          "en": "Nalut",
+          "slug": "nalut-ly0209"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.164",
+      "lon": "10.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0209029",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "غدامس",
+      "en": "Gadamis",
+      "slug": "gadamis"
+    },
+    "code": {
+      "id": "LY0209029",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0209",
+      "level": 2,
+      "name": {
+        "local": "نالوت",
+        "en": "Nalut",
+        "slug": "nalut-ly0209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0209",
+        "level": 2,
+        "name": {
+          "local": "نالوت",
+          "en": "Nalut",
+          "slug": "nalut-ly0209"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.126",
+      "lon": "9.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0209031",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "كاباو",
+      "en": "Kabaw",
+      "slug": "kabaw"
+    },
+    "code": {
+      "id": "LY0209031",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0209",
+      "level": 2,
+      "name": {
+        "local": "نالوت",
+        "en": "Nalut",
+        "slug": "nalut-ly0209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0209",
+        "level": 2,
+        "name": {
+          "local": "نالوت",
+          "en": "Nalut",
+          "slug": "nalut-ly0209"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.846",
+      "lon": "11.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0209033",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "نالوت",
+      "en": "Nalut",
+      "slug": "nalut"
+    },
+    "code": {
+      "id": "LY0209033",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0209",
+      "level": 2,
+      "name": {
+        "local": "نالوت",
+        "en": "Nalut",
+        "slug": "nalut-ly0209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0209",
+        "level": 2,
+        "name": {
+          "local": "نالوت",
+          "en": "Nalut",
+          "slug": "nalut-ly0209"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.864",
+      "lon": "10.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0209034",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "وازن",
+      "en": "Wazin",
+      "slug": "wazin"
+    },
+    "code": {
+      "id": "LY0209034",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0209",
+      "level": 2,
+      "name": {
+        "local": "نالوت",
+        "en": "Nalut",
+        "slug": "nalut-ly0209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0209",
+        "level": 2,
+        "name": {
+          "local": "نالوت",
+          "en": "Nalut",
+          "slug": "nalut-ly0209"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.946",
+      "lon": "10.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0208026",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "خليج السدرة",
+      "en": "As Sidr",
+      "slug": "as-sidr"
+    },
+    "code": {
+      "id": "LY0208026",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0208",
+      "level": 2,
+      "name": {
+        "local": "سرت",
+        "en": "Sirt",
+        "slug": "sirt-ly0208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0208",
+        "level": 2,
+        "name": {
+          "local": "سرت",
+          "en": "Sirt",
+          "slug": "sirt-ly0208"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.632",
+      "lon": "18.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0208027",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "هراوة",
+      "en": "Harawa",
+      "slug": "harawa"
+    },
+    "code": {
+      "id": "LY0208027",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0208",
+      "level": 2,
+      "name": {
+        "local": "سرت",
+        "en": "Sirt",
+        "slug": "sirt-ly0208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0208",
+        "level": 2,
+        "name": {
+          "local": "سرت",
+          "en": "Sirt",
+          "slug": "sirt-ly0208"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.054",
+      "lon": "17.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0208028",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "سرت",
+      "en": "Sirte",
+      "slug": "sirte"
+    },
+    "code": {
+      "id": "LY0208028",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0208",
+      "level": 2,
+      "name": {
+        "local": "سرت",
+        "en": "Sirt",
+        "slug": "sirt-ly0208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0208",
+        "level": 2,
+        "name": {
+          "local": "سرت",
+          "en": "Sirt",
+          "slug": "sirt-ly0208"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.205",
+      "lon": "16.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0211046",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "ابوسليم",
+      "en": "Abu Salim",
+      "slug": "abu-salim"
+    },
+    "code": {
+      "id": "LY0211046",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0211",
+      "level": 2,
+      "name": {
+        "local": "طرابلس",
+        "en": "Tripoli",
+        "slug": "tripoli-ly0211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0211",
+        "level": 2,
+        "name": {
+          "local": "طرابلس",
+          "en": "Tripoli",
+          "slug": "tripoli-ly0211"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 25
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.852",
+      "lon": "13.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0211044",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "عين زارة",
+      "en": "Ain Zara",
+      "slug": "ain-zara"
+    },
+    "code": {
+      "id": "LY0211044",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0211",
+      "level": 2,
+      "name": {
+        "local": "طرابلس",
+        "en": "Tripoli",
+        "slug": "tripoli-ly0211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0211",
+        "level": 2,
+        "name": {
+          "local": "طرابلس",
+          "en": "Tripoli",
+          "slug": "tripoli-ly0211"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.813",
+      "lon": "13.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0211047",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "حي الأندلس",
+      "en": "Hai Alandalus",
+      "slug": "hai-alandalus"
+    },
+    "code": {
+      "id": "LY0211047",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0211",
+      "level": 2,
+      "name": {
+        "local": "طرابلس",
+        "en": "Tripoli",
+        "slug": "tripoli-ly0211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0211",
+        "level": 2,
+        "name": {
+          "local": "طرابلس",
+          "en": "Tripoli",
+          "slug": "tripoli-ly0211"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.875",
+      "lon": "13.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0211043",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "تاجوراء",
+      "en": "Tajoura",
+      "slug": "tajoura"
+    },
+    "code": {
+      "id": "LY0211043",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0211",
+      "level": 2,
+      "name": {
+        "local": "طرابلس",
+        "en": "Tripoli",
+        "slug": "tripoli-ly0211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0211",
+        "level": 2,
+        "name": {
+          "local": "طرابلس",
+          "en": "Tripoli",
+          "slug": "tripoli-ly0211"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.883",
+      "lon": "13.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LY0211045",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Baladiya"
+    },
+    "name": {
+      "local": "طرابلس",
+      "en": "Tripoli",
+      "slug": "tripoli"
+    },
+    "code": {
+      "id": "LY0211045",
+      "iso": null
+    },
+    "parent": {
+      "id": "LY0211",
+      "level": 2,
+      "name": {
+        "local": "طرابلس",
+        "en": "Tripoli",
+        "slug": "tripoli-ly0211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LY02",
+        "level": 1,
+        "name": {
+          "local": "الغرب",
+          "en": "West",
+          "slug": "west-ly02"
+        }
+      },
+      {
+        "id": "LY0211",
+        "level": 2,
+        "name": {
+          "local": "طرابلس",
+          "en": "Tripoli",
+          "slug": "tripoli-ly0211"
+        }
+      }
+    ],
+    "children_count": {
+      "muhalla": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.897",
+      "lon": "13.178"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]
