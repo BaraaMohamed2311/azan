@@ -48,7 +48,7 @@ class AppPreferences {
     municipalityId: '', // replaced at load time with طرابلس
     gpsPlace: null,
     calculationMethod: CalculationMethodKey.egyptian,
-    notificationsEnabled: false,
+    notificationsEnabled: !kIsWeb, // web must ask permission from a click
     soundMode: 'system',
     hijriOffset: 0,
     quranFontScale: 0,
@@ -97,7 +97,8 @@ class AppPreferences {
         (m) => m.name == methodRaw,
         orElse: () => CalculationMethodKey.egyptian,
       ),
-      notificationsEnabled: json['notificationsEnabled'] as bool? ?? false,
+      notificationsEnabled: json['notificationsEnabled'] as bool? ??
+          AppPreferences.defaults.notificationsEnabled,
       soundMode: json['soundMode'] as String? ?? 'system',
       hijriOffset: (json['hijriOffset'] as num?)?.toInt() ?? 0,
       quranFontScale: (json['quranFontScale'] as num?)?.toInt() ?? 0,

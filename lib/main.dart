@@ -6,6 +6,7 @@ import 'core/theme.dart';
 import 'data/municipalities.dart';
 import 'data/quran.dart';
 import 'screens/root_shell.dart';
+import 'services/notification_service.dart';
 import 'state/app_settings.dart';
 
 /// أذان ليبيا — Flutter port of the original Expo/React Native app.
@@ -26,6 +27,9 @@ Future<void> main() async {
       child: const AthanLibyaApp(),
     ),
   );
+  // Hand the next 30 days of prayer calls to the OS (Android alarms / web
+  // engine). After this the app does not need to stay open.
+  AzanSync.attach(settings);
 }
 
 class AthanLibyaApp extends StatelessWidget {

@@ -61,7 +61,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
       );
       if (mounted) {
         setState(() => _alertMessage =
-            'تمت جدولة ${toArabicDigits(scheduled)} تنبيهًا للأيام السبعة القادمة.');
+            'تمت جدولة ${toArabicDigits(scheduled)} تنبيهًا للأيام الثلاثين القادمة.');
       }
     } catch (error) {
       settings.updatePreferences(
@@ -69,6 +69,20 @@ class _SettingsScreenState extends State<SettingsScreen> {
       if (mounted) {
         setState(() => _alertMessage =
             error is Exception ? '$error'.replaceAll('Exception: ', '') : 'تعذّر إعداد التنبيهات.');
+      }
+    }
+  }
+
+  Future<void> _testAzan() async {
+    setState(() => _alertMessage = null);
+    final prefs = context.read<AppSettings>().preferences;
+    try {
+      await testAzan(prefs);
+    } catch (error) {
+      if (mounted) {
+        setState(() => _alertMessage = error is Exception
+            ? '$error'.replaceAll('Exception: ', '')
+            : 'تعذّر تشغيل التجربة.');
       }
     }
   }
@@ -324,7 +338,9 @@ class _SettingsScreenState extends State<SettingsScreen> {
                           ),
                         ),
                         Text(
-                          'جدولة محلية للأيام السبعة القادمة',
+                          _isWeb
+                              ? 'يعمل ما دام الموقع أو التطبيق المثبّت مفتوحًا (حتى في الخلفية)'
+                              : 'جدولة تلقائية للأيام الثلاثين القادمة، تعمل والتطبيق مغلق',
                           textAlign: TextAlign.right,
                           style: TextStyle(
                             fontSize: 11,
@@ -343,9 +359,9 @@ class _SettingsScreenState extends State<SettingsScreen> {
                   ),
                 ],
               ),
-              if (_isWeb || defaultTargetPlatform != TargetPlatform.android)
+              if (!_isWeb && defaultTargetPlatform != TargetPlatform.android)
                 Text(
-                  'إشعارات الويب بعد إغلاق المتصفح غير مضمونة؛ استخدم أندرويد للتنبيهات المجدولة.',
+                  'التنبيهات المجدولة متاحة على أندرويد والويب فقط.',
                   textAlign: TextAlign.right,
                   style: TextStyle(
                     fontSize: 12,
@@ -355,12 +371,12 @@ class _SettingsScreenState extends State<SettingsScreen> {
                     fontFamilyFallback: const ['NotoSansArabic'],
                   ),
                 )
-              else
+              else ...[
                 Row(
                   spacing: 8,
                   children: [
                     Pill(
-                      label: 'نغمة الجهاز',
+                      label: 'صوت الأذان',
                       active: prefs.soundMode == 'system',
                       onPress: () => settings.updatePreferences(
                           (p) => p.copyWith(soundMode: 'system')),
@@ -373,6 +389,40 @@ class _SettingsScreenState extends State<SettingsScreen> {
                     ),
                   ],
                 ),
+                Row(
+                  spacing: 8,
+                  children: [
+                    Expanded(
+                      child: ActionButton(
+                        label: 'تجربة الأذان',
+                        icon: Icons.volume_up_rounded,
+                        secondary: true,
+                        onPress: _testAzan,
+                      ),
+                    ),
+                    Expanded(
+                      child: ActionButton(
+                        label: 'إيقاف الأذان',
+                        icon: Icons.stop_circle_outlined,
+                        secondary: true,
+                        onPress: () => stopAzan(),
+                      ),
+                    ),
+                  ],
+                ),
+                if (_isWeb)
+                  Text(
+                    'المتصفحات لا تستطيع إيقاظ صفحة مغلقة؛ أبقِ الموقع مفتوحًا في تبويب أو ثبّته على الشاشة الرئيسية. للتنبيه التلقائي الكامل استخدم تطبيق أندرويد.',
+                    textAlign: TextAlign.right,
+                    style: TextStyle(
+                      fontSize: 12,
+                      height: 19 / 12,
+                      color: colors.mutedForeground,
+                      fontFamily: 'Inter',
+                      fontFamilyFallback: const ['NotoSansArabic'],
+                    ),
+                  ),
+              ],
               if (_alertMessage != null)
                 Text(
                   _alertMessage!,
